@@ -1,6 +1,6 @@
 # Learn JavaScript30 📚
 
-A 30 day vanilla js coding challenge from [JavaScript30](https://javascript30.com/). There are no frameworks, compilers, libraries and boilerplates involved.
+JavaScript practice with a 30 day vanilla js coding challenge from [JavaScript30](https://javascript30.com/) by Wes Bos. There are no frameworks, compilers, libraries and boilerplates involved.
 
 ---
 
@@ -10,13 +10,11 @@ A 30 day vanilla js coding challenge from [JavaScript30](https://javascript30.co
 
 ---
 
-## Personal Learnings
+## Challenges
 
-### 01 - JavaScript Drum Kit
-
-### 02 - JS and CSS Clock
-
-### 03 - CSS Variables
+- 01 - [JavaScript Drum Kit](https://github/agalcalledjen/learn-javascript30/blob/master/01%-%JavaScript%Drum%Kit/README.md)
+- 02 - [JS and CSS Clock](https://github/agalcalledjen/learn-javascript30/blob/master/02%-%JS%and%CSS%Clock/README.md)
+- 03 - [CSS Variables](https://github/agalcalledjen/learn-javascript30/blob/master/03%-%CSS%Variables/README.md)
 
 ---
 
