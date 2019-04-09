@@ -1,6 +1,6 @@
 # Learn JavaScript30 📚
 
-JavaScript practice with a 30 day vanilla js coding challenge from [JavaScript30](https://javascript30.com/) by Wes Bos. There are no frameworks, compilers, libraries and boilerplates involved.
+JavaScript practice with a 30 day vanilla js coding challenge from [JavaScript30](https://javascript30.com/) by [Wes Bos](https://wesbos.com/). There are no frameworks, compilers, libraries and boilerplates involved.
 
 ---
 
